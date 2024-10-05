@@ -1,0 +1,37 @@
+1. Write a program to take the principal amount, rate of interest, and time from 
+the user and calculate the simple interest.
+• Formula: Simple Interest = (Principal × Rate × Time) / 100.
+
+2. Take a temperature in Celsius as input from the user and convert it to 
+Fahrenheit using the formula:
+• Formula: Fahrenheit = (Celsius × 9/5) + 32.
+
+3. Write a program that takes the length and width of a rectangle as input and 
+calculates its area and perimeter.
+• Formula:
+Area = length × width
+Perimeter = 2 × (length + width)
+
+4. Write a Python program to take a character as input from the user and print 
+its ASCII value.
+
+5. Take the radius of a circle from the user and calculate the area and 
+circumference.
+• Formula:
+Area = π × radius²
+Circumference = 2 × π × radius
+
+6. Take two numbers as input from the user and swap their values without using 
+a third variable.
+
+7. Write a Python program to calculate the roots of a quadratic equation. The 
+quadratic equation has the form ax2+bx+c=0ax^2 + bx + c = 0ax2+bx+c=0. You 
+will take input values for aaa, bbb, and ccc from the user. The roots can be 
+calculated using the formula: 
+• D=b2−4acD = b^2 - 4acD=b2−4ac
+• Root 1 = −b+D2a\frac{-b + \sqrt{D}}{2a}2a−b+D
+• Root 2 = −b−D2a\frac{-b - \sqrt{D}}{2a}2a−b−D
+
+8. Write a Python program to calculate Body Mass Index (BMI). Take the user's 
+weight (in kg) and height (in meters) as input.
+• Formula: BMI = weight / (height × height)
